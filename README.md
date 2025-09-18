@@ -2,7 +2,7 @@
 🔭 I’m currently working on Community Detection<br>👯 I’m looking to collaborate on Machine learning and Full stack projects<br>🤝 Seeking contributors and collaborators for RAG-based projects: knowledge retrieval, indexing,<br> and LLM integration.<br>🌱 I’m currently learning Go-lang<br>⚡ Fun fact
 cd
 =======
-🔭 I’m currently working on Community Detection<br>👯 I’m looking to collaborate on Machine learning and Full stack projects<br>🤝Seeking contributors and collaborators for  RAG-based projects: knowledge retrieval, indexing,<br>  and LLM integration.<br>🌱 I’m currently learning Go-lang<br>⚡ Fun fact
+🔭 I’m currently working on Community Detection<br>👯 I’m looking to collaborate on Machine learning and Full stack projects<br>🤝Seeking contributors and collaborators for RAG-based projects: knowledge retrieval, indexing,<br>  and LLM integration.<br>🌱 I’m currently learning Go-lang<br>⚡ Fun fact
 >>>>>>> 3d4de87296b366fd57b9e8f8192ba6ee6fafad08:ReadMe.md
 
 
