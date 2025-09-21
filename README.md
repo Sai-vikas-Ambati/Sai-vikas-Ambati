@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Community Detection  
 👯 I’m looking to collaborate on Machine Learning and Full Stack projects  
-🤝 Seeking contributors and collaborators for RAG-based projects: knowledge retrieval, indexing, and LLM integration.  
+🤝 Seeking contributors and collaborators for  RAG-based projects: knowledge retrieval, indexing, and LLM integration.  
 🌱 I’m currently learning Go-lang  
 ⚡ Fun fact: I break things just to learn how to fix them 😉  
 
