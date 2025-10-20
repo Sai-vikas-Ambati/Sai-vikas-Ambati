@@ -1,74 +1,27 @@
-<!-- README.md for Sai Vikas Ambati -->
+# 💫 About Me:
+🔭 I’m currently working on Community Detection<br>👯 I’m looking to collaborate on Machine learning and Full stack projects<br>🤝Seeking contributors and collaborators for RAG-based projects: knowledge retrieval, indexing,<br>  and LLM integration.<br>🌱 I’m currently learning C#<br>⚡ Fun fact
 
-<h1 align="center">👋 Hi, I'm Sai Vikas Ambati</h1>
-<h3 align="center">🚀 Computer Science Engineer | Innovator | Problem Solver</h3>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-vikas-ambati-296a81251) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/PleasantCulture6733) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saivikasambati08@gmail.com) 
 
-### 🌟 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎓 **B.Tech in Computer Science & Engineering** from *Amrita Vishwa Vidyapeetham, Coimbatore*  
-💡 Passionate about **AI, Deep Learning, and Intelligent Systems**  
-💻 Skilled in **C, C++, Python, and Java**  
-🧠 Interested in **Model Optimization, System Design, and Space AI Applications**  
-🌱 Currently exploring **Edge AI and Knowledge Distillation**  
-🤝 Open to collaboration on **AI Research and Scalable Software Systems**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sai-vikas-Ambati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🛠️ Tech Stack
-
-#### 🚩 Programming
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-
-#### 🧩 Web & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sai-vikas-Ambati&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sai-vikas-Ambati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats
-
-<!-- 🟢 Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false&v=3)
-
-<!-- 🟢 Contribution Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai-vikas-Ambati&show_icons=true&theme=ambient_gradient&hide_border=false&v=3)
-
-<!-- 🟢 Language Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-vikas-Ambati&layout=compact&theme=ambient_gradient&hide_border=false&v=3)
-
-<!-- 🟢 Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sai-vikas-Ambati&theme=react-dark&hide_border=false&v=3)
-
----
-
-### 🏆 Achievements & Highlights
-
-- 🧩 **Developed:** Hospital Management System, Female Entrepreneurs Platform, Flight Route Optimizer  
-- 🛰️ **Research:** Road Incident Detection using Live Traffic Data  
-- ⚙️ **Hardware Project:** Occupancy Detection System for Closed Spaces (STM32)  
-- 📚 **Presentation:** Model Compression Techniques in Deep Learning for Space Applications  
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Sai-vikas-Ambati"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/sai-vikas-ambati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:saivikasambati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-<h3 align="center">✨ “Think Big. Build Bold. Deliver Impact.” ✨</h3>
+<!-- Proudly created with GPRM  ( https://gprm.itsvg.in ) -->
