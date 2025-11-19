@@ -54,12 +54,12 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-vikas-Ambati&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sai-vikas-Ambati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
